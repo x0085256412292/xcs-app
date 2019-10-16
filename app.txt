@@ -1,0 +1,5 @@
+{
+  "app_version":100,
+  "base_url":"https://www.xcsgx.com",
+  "download_url":"xxx"
+}
