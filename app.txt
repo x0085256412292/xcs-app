@@ -1,5 +1,5 @@
 {
-  "app_version":100,
+  "app_version":101,
   "base_url":"https://www.xcsgx.com",
-  "download_url":"xxx"
+  "download_url":"https://xcs123.s3.ap-east-1.amazonaws.com/app-release.v1.0.1.apk"
 }
